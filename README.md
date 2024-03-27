@@ -7,14 +7,17 @@ Welcome to the NoSQL challenge repository! This project involves evaluating vari
 
 # Project Components
 ## Database Setup and Jupyter Notebook:
+
 Set up a MongoDB database named uk_food and import establishments data.
 Use NoSQL_setup_starter.ipynb for database setup and basic operations.
 
 ## Database Modification:
+
 Update the database by adding a new restaurant, updating BusinessTypeID, and removing establishments in Dover.
 Use NoSQL_setup_starter.ipynb for database updates.
 
 ## Exploratory Analysis:
+
 Analyze the dataset to answer specific questions and provide insights.
 Use NoSQL_analysis_starter.ipynb for exploratory analysis.
 
@@ -22,14 +25,18 @@ Use NoSQL_analysis_starter.ipynb for exploratory analysis.
 ## Jupyter Notebook Files:
 
 NoSQL_setup_starter.ipynb: Starter Setup Code
+
 NoSQL_analysis_starter.ipynb: Starter Analysis Code
+
 Setup.ipynb: Database setup and modification.
+
 Analysis.ipynb: Exploratory analysis.
 
 ## Resources Folder:
 establishments.json: Data file containing information about various establishments and their ratings.
 
 Contributors
+
 Maggie Boone
 
 Feel free to explore the repository, contribute, and utilize the provided resources for your data analysis tasks!
